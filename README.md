@@ -5,8 +5,10 @@ Welcome to Clue Notes,
 
 To run this project in your local
 
+To run this project in your local
+
 Pull this code from github and make sure nodejs is installed and IDE to run this code in your local machine.
-After cloning project into local, use following commands to setup & run.
+After cloning project into local,copy the .env.local file into the project and use following commands to setup & run.
 
 # Project Setup
 ----
