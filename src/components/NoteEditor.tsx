@@ -57,6 +57,7 @@ const NoteEditor = () => {
     setCurrentNote(null);
     setTitle('');
     setContent('');
+    handleSubmit();
   };
 
   if (currentNote?.mode === 'view') {

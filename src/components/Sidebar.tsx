@@ -25,7 +25,7 @@ const Sidebar = ({ isOpen }: SidebarProps) => {
 
   return (
     <aside
-      className={`fixed left-0 top-16 h-[calc(100vh-4rem)] w-[400px] bg-white border-r border-gray-200 transform transition-transform duration-300 ease-in-out ${
+      className={`fixed left-0 top-16 h-[calc(100vh-4rem)] w-64 bg-white border-r border-gray-200 transform transition-transform duration-300 ease-in-out ${
         isOpen ? 'translate-x-0' : '-translate-x-full'
       } overflow-y-auto`}
     >
