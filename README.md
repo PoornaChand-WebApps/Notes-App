@@ -1,7 +1,7 @@
 
 Hello There!!!,
 
-Welcome to Notes,
+Welcome to Clue Notes,
 
 To run this project in your local
 
